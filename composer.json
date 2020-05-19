@@ -1,0 +1,20 @@
+{
+  "name": "shigaev/searcher",
+  "description": "",
+  "type": "",
+  "keywords": [""],
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "ShigaevDV",
+      "email": "shigaev_92@mail.ru"
+    }
+  ],
+
+  "autoload": {
+    "psr-4": {
+      "shigaev\\searcher\\": "src/"
+    }
+  }
+}
